@@ -204,6 +204,7 @@ module E164
     "1620" => ["US", "United States"],
     "1623" => ["US", "United States"],
     "1626" => ["US", "United States"],
+    "1628" => ["US", "United States"],
     "1630" => ["US", "United States"],
     "1631" => ["US", "United States"],
     "1636" => ["US", "United States"],
