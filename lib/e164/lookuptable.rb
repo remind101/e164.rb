@@ -313,6 +313,7 @@ module E164
     "1848" => ["US", "United States"],
     "1849" => ["DO", "Dominican Republic"],
     "1850" => ["US", "United States"],
+    "1854" => ["US", "United States"],
     "1855" => ["US", "Toll Free"],
     "1856" => ["US", "United States"],
     "1857" => ["US", "United States"],
