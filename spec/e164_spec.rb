@@ -11,6 +11,7 @@ describe E164 do
     it "doesn't fail with a malformed phone number" do
       expect(E164.lookup('@remindhq')).to eq(nil)
     end
+    
     it 'respects 689 as valid us country code' do
       expect(E164.lookup('16891234567')).to eq(['US', 'United States'])
     end
