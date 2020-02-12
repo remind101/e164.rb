@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+# compares current changes to the master git branch
+
 require 'e164'
 
 
