@@ -4,8 +4,6 @@ A clone of [remind101/e164.js](https://github.com/remind101/e164.js) using the a
 
 Run `rake rebuild` to bring this module into sync with e164.js.
 
-# NOTE - e164 library is no longer maintained. Please see lookuptable.rb for updating phone numbers.
-
 ## Usage
 
 ```ruby
