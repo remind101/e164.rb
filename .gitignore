@@ -12,6 +12,3 @@
 *.o
 *.a
 mkmf.log
-
-# ignore the test lookuptable we pull from master branch in specs
-testlookup.rb
