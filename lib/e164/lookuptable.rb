@@ -362,6 +362,7 @@ module E164
     "1818" => ["US","United States"],
     "1819" => ["CA","Canada"],
     "1820" => ["US","United States"],
+    "1821" => ["US","United States"],
     "1825" => ["CA","Canada"],
     "1826" => ["US","United States"],
     "1828" => ["US","United States"],
